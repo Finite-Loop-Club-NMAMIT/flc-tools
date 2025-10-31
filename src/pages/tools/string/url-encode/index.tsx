@@ -20,8 +20,8 @@ const exampleCards: CardExampleType<InitialValuesType>[] = [
     title: 'Encode an actual URL',
     description:
       'This example URL-encodes a string that also happens to be a valid web link. Special characters in this example are a colon, slash, question mark and equals sign.',
-    sampleText: 'https://omnitools.app/',
-    sampleResult: 'https%3A%2F%2Fomnitools.app%2F',
+    sampleText: 'https://finiteloop.club/',
+    sampleResult: 'https%3A%2F%2Ffiniteloop.club%2F',
     sampleOptions: initialValues
   },
   {
