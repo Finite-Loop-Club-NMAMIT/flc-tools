@@ -32,7 +32,7 @@ export default function ToolTextResult({
       });
   };
   const handleDownload = () => {
-    const filename = `output-omni-tools.${extension}`;
+    const filename = `output-flc-tools.${extension}`;
 
     const mimeType = mime.getType(extension) || 'text/plain';
 

@@ -21,8 +21,8 @@
         <br /><br />
 </div>
 
-Welcome to OmniTools, a self-hosted web app offering a variety of online tools to simplify everyday tasks.
-Whether you are coding, manipulating images/videos, PDFs or crunching numbers, OmniTools has you covered. Please don't
+Welcome to FLC Tools, a self-hosted web app offering a variety of online tools to simplify everyday tasks.
+Whether you are coding, manipulating images/videos, PDFs or crunching numbers, FLC Tools has you covered. Please don't
 forget to
 star the repo to support us.
 Here is the [demo](https://omnitools.app) website.
@@ -172,7 +172,7 @@ You can also join our [Discord server](https://discord.gg/SDbbn3hT4b)
   </a>
 </div>
 
-Thanks to [Locize](https://www.locize.com) for sponsoring OmniTools and supporting localization efforts.
+Thanks to [Locize](https://www.locize.com) for sponsoring FLC Tools and supporting localization efforts.
 They make translation management simple and developer-friendly.
 
 ## Contributors
